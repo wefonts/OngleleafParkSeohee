@@ -9,7 +9,7 @@
     font-display: swap;
 }
 
-OngleleafParkSeohee {
+.OngleleafParkSeohee {
     font-family: "OngleleafParkSeohee";
 }
   
